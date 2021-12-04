@@ -1,10 +1,25 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Instagram DIO Master
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Projeto criado utilizando Flexbox para fazer a interface de login do Instagram!
 
-### Os requisitos são:
+No qual foi implementado um slider de imagens feito de maneira simples.
+
+
+
+### Links Úteis: 
+
+[Remove Background](https://www.remove.bg/)
+
+[Imagens Gratuitas](https://www.pexels.com/)
+
+
+
+### Requisitos:
 
 * [HTML básico](https://www.w3schools.com/html/)
+
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+  
 
 ## 🚀 Let's code! 🚀
